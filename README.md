@@ -5,18 +5,14 @@ Docker image for [mkp224o](https://github.com/cathugger/mkp224o)
 
 ```console
 $ docker run -it nwtgck/mkp224o
-(in container)# mkp224o filter abcd
+root@32452ed52663:~# mkp224o abcd
 sorting filters... done.
 filters:
 	abcd
-	filter
-in total, 2 filters
+in total, 1 filter
 using 4 threads
-abcd5ahkubdzrds2z3mvsmfzpnzfwvqvyrngmdemoqe6vaoogaqqqqad.onion
-abcdt4hw62jf5p7ez6offyaafpsbq4fq6ytgyulzhvs6csxjeru5nlqd.onion
-abcdboow7vgji75u3556ikajumhebczuccrbs6ht2pr5xxqotk4udsid.onion
-abcdncoded7kozjtjik5l2fpa6rzhwnvcno774rpzgglg5cryq5abxid.onion
-abcda3i3h6eiakr42zi2hwr2546ul43mzfmgi54ugqfnhuyajatgpuad.onion
-abcd2o4hhgvydrvvchiks6rp6bg675fkehkyanq27au5lhgokedmkbqd.onion
+abcdxymmekfpjvd7a6cmem7lororqs55am7b6vbre3wzdkvx5f6ug6yd.onion
+abcdnbtq3yj7bwmfne5mreaalwgqa7xw66nrmhxmufuuhj5oyxorefid.onion
+abcdqdeet6oxx7hn2dbjksaxwujtor5kzpukc53qbyxtt6q66fgwruyd.onion
 ^Cwaiting for threads to finish... done.
 ````
